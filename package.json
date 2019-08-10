@@ -1,0 +1,20 @@
+{
+  "name": "thecorruptedstories",
+  "version": "1.0.0",
+  "description": "In my spare time, for quite a while actually (6 months), I've been working on a few short stories. These stories are all part of the same plot, and their group name is: The Corrupted Stories.",
+  "main": "server.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beastdestroyer/thecorruptedstories.git"
+  },
+  "author": "",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/beastdestroyer/thecorruptedstories/issues"
+  },
+  "homepage": "https://github.com/beastdestroyer/thecorruptedstories#readme",
+  "devDependencies": {}
+}

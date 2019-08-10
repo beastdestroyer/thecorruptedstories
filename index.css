@@ -1,0 +1,12 @@
+/* Default global styling */
+/* Please note, in the actual documents I typed up (in MS Word), the font sizes were much smaller and have been increased here for readability purposes. This also isn't updated as frequently as the doc itself, however I will ensure to be here ASAP */
+* { font-family: 'Times New Roman', Times, serif; user-select: none; line-height: 1.5em; }
+* :not(h1, h2) { font-size: 1em; }
+body { margin: 0 2em 2em 2em; }
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+a.none { color: red; }
+.italic { font-style: italic; }
+.bold { font-weight: bold; }
+.st { text-decoration: line-through; }
+.of { overflow: scroll; }
